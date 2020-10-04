@@ -7,4 +7,6 @@ here I am using firebase core, firebase cloud to save the data and firebase auth
 
 I did not code the design, it was already there. 
 
+![](images/rsz_group_chat_two.png)
+
 
