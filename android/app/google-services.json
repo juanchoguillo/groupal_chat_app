@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "968334342680",
+    "firebase_url": "https://flash-chat-32312.firebaseio.com",
+    "project_id": "flash-chat-32312",
+    "storage_bucket": "flash-chat-32312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968334342680:android:52d870a54ca4fbcaf8e16d",
+        "android_client_info": {
+          "package_name": "juanguillermocardona.flash_chat_two"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968334342680-fhoqndor63rpjt0prsl3flpunb7lf5dd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHTeVsMdWzBifi1qO4_LyvAljfLOanzcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968334342680-fhoqndor63rpjt0prsl3flpunb7lf5dd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "968334342680-b31rp86bm55gi5d02gfh1kd5uss3vdf5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "juanguillermocardona.flashChatTwo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
